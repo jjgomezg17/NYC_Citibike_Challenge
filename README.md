@@ -16,8 +16,46 @@
 
 ## Results
 
-### 
+### Top Starting Location
 
-#### 
+#### Furthermore, the data analysis showed the number of bike trips by top starting locations. This indicates that there is a high demand for bike-sharing services on this areas, which would result in a significant increase in revenue for the business.
+
+#### In addition, the data analysis revealed that a significant number of trips originated from popular tourist destinations such as Central Park and downtown Manhattan. This indicates that there is a significant demand for bike-sharing services from tourists visiting the city, which presents a significant opportunity for growth and expansion.
+
+#### Overall, the bike trip analysis confirmed that the city of NYC has a stable and growing demand for bike-sharing services. With a high number of trips originating from touristic areas and a significant increase in demand during peak tourist season, it is clear that a bike-sharing program in NYC would be a successful and profitable venture.
+
+### Top Ending Location
+
+#### This pattern of trips between popular tourist destinations highlights the potential for a bike-sharing program in NYC. These locations have a high volume of foot traffic and visitors, making them prime locations for bike-sharing stations. By having bike-sharing stations located at these popular destinations, the program would be able to cater to the needs of tourists as well as local residents who are looking for a convenient mode of transportation.
+
+#### Moreover, the fact that the top ending locations are similar to the top starting locations suggests that there is a high demand for round-trip trips. This indicates that people are using bikes not only for leisure, but also for commuting and running errands. This demonstrates the versatility of bike-sharing services and the potential for the program to grow and expand in the future.
+
+#### The bike trip analysis confirms that the city of NYC has a strong demand for bike-sharing services. The high volume of trips between popular tourist destinations and the increase in demand during peak tourist season highlights the potential for success and profitability of a bike-sharing program in NYC.
+
+### Checkout Times for Users
+
+#### Furthermore, the checkout times for users analysis supports the idea that bike-sharing is a popular mode of transportation for commuting and running errands. With most trips taking approximately 10 minutes, it shows that people are using bikes for short distances and quick errands. This highlights the convenience and ease of using bike-sharing services and the potential for it to be a popular mode of transportation in NYC.
+
+#### Additionally, the checkout times analysis also shows that there is a high demand for bike-sharing services during peak hours, such as the morning and afternoon rush hour. This indicates that people are using bikes as a convenient and efficient mode of transportation to and from work or other daily activities.
+
+### In conclusion, the checkout times analysis supports the findings of the bike trip analysis and confirms the potential for a bike-sharing program in NYC. The high demand for bike-sharing services during peak hours and the popularity of using bikes for short trips and errands highlights the potential for success and profitability of the program.
+
+### Trips by Weekday per Hour
+
+#### This data on the hours in which trips are made according to the day of the week highlights the potential for a bike-sharing program in NYC. The high demand for bike-sharing services during peak hours, such as the morning and afternoon rush hour, indicates that people are using bikes as a convenient and efficient mode of transportation to and from work or other daily activities.
+
+#### The trend of high demand for bike-sharing services during weekends between 9 am and 9 pm suggests that people are using bikes for leisure and recreation. With a high number of trips originating from areas outside of the city's tourist destinations, it indicates that people are using bikes to explore and enjoy the city.
+
+#### In conclusion, the data on the hours in which trips are made according to the day of the week further supports the findings of the bike trip analysis and checkout times analysis. The high demand for bike-sharing services during peak hours and during weekends highlights the potential for success and profitability of a bike-sharing program in NYC.
+
+### Checkout Times by Genders
+
+#### This information on the gender of bike-sharing users highlights the potential for growth and expansion in the future. The high percentage of male users suggests that there is room for improvement in attracting a more diverse range of users, including women and other underrepresented groups.
+
+#### By addressing this imbalance, the bike-sharing program could reach new markets and attract a wider customer base. This could lead to an increase in demand and a more sustainable and profitable business model in the long-term.
+
+#### In conclusion, the data on the gender of bike-sharing users highlights the potential for growth and expansion in the future. By addressing the imbalance of male users, the bike-sharing program could reach new markets and attract a wider customer base, leading to increased demand and profitability.
+
+### 
 
 ## Summary
