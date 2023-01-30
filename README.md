@@ -22,6 +22,8 @@
 
 ### Top Ending Location
 
+![2](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/2.png)
+
 #### This pattern of trips between popular tourist destinations highlights the potential for a bike-sharing program in NYC. These locations have a high volume of foot traffic and visitors, making them prime locations for bike-sharing stations. By having bike-sharing stations located at these popular destinations, the program would be able to cater to the needs of tourists as well as local residents who are looking for a convenient mode of transportation.
 
 #### Moreover, the fact that the top ending locations are similar to the top starting locations suggests that there is a high demand for round-trip trips. This indicates that people are using bikes not only for leisure, but also for commuting and running errands. This demonstrates the versatility of bike-sharing services and the potential for the program to grow and expand in the future.
@@ -29,6 +31,8 @@
 #### The bike trip analysis confirms that the city of NYC has a strong demand for bike-sharing services. The high volume of trips between popular tourist destinations and the increase in demand during peak tourist season highlights the potential for success and profitability of a bike-sharing program in NYC.
 
 ### Checkout Times for Users
+
+![3](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/3.png)
 
 #### Furthermore, the checkout times for users analysis supports the idea that bike-sharing is a popular mode of transportation for commuting and running errands. With most trips taking approximately 10 minutes, it shows that people are using bikes for short distances and quick errands. This highlights the convenience and ease of using bike-sharing services and the potential for it to be a popular mode of transportation in NYC.
 
@@ -38,6 +42,8 @@
 
 ### Trips by Weekday per Hour
 
+![4](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/4.png)
+
 #### This data on the hours in which trips are made according to the day of the week highlights the potential for a bike-sharing program in NYC. The high demand for bike-sharing services during peak hours, such as the morning and afternoon rush hour, indicates that people are using bikes as a convenient and efficient mode of transportation to and from work or other daily activities.
 
 #### The trend of high demand for bike-sharing services during weekends between 9 am and 9 pm suggests that people are using bikes for leisure and recreation. With a high number of trips originating from areas outside of the city's tourist destinations, it indicates that people are using bikes to explore and enjoy the city.
@@ -45,6 +51,8 @@
 #### In conclusion, the data on the hours in which trips are made according to the day of the week further supports the findings of the bike trip analysis and checkout times analysis. The high demand for bike-sharing services during peak hours and during weekends highlights the potential for success and profitability of a bike-sharing program in NYC.
 
 ### Checkout Times by Genders
+
+![5](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/5.png)
 
 #### This information on the gender of bike-sharing users highlights the potential for growth and expansion in the future. The high percentage of male users suggests that there is room for improvement in attracting a more diverse range of users, including women and other underrepresented groups.
 
@@ -54,6 +62,8 @@
 
 ### Trips by Gender (Weekday per Hour)
 
+![6](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/6.png)
+
 #### This combined data on the time of day and gender of bike-sharing users highlights the similarities and differences between the two groups. While both genders behave similarly in terms of the hours in which they use bike-sharing services, men have a much higher number of users.
 
 #### This information can be used to inform marketing and outreach strategies, to target specific groups and increase their usage of the bike-sharing program. By attracting a more diverse range of users, the bike-sharing program could reach new markets and continue to grow and expand in the future.
@@ -61,6 +71,8 @@
 #### The combined data on the time of day and gender of bike-sharing users highlights the similarities and differences between the two groups and provides valuable information for future marketing and outreach efforts. By targeting specific groups and increasing their usage of the bike-sharing program, the business could reach new markets and continue to grow and expand.
 
 ### User Trips by Gender by Weekday
+
+![7](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/7.png)
 
 #### This data on the weekday and gender of bike-sharing users highlights the behavior patterns of different groups of riders. It can be seen that men have the most trips, with the highest activity on Thursdays and Fridays.
 
