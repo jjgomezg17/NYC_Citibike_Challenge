@@ -12,6 +12,8 @@
 
 ### Top Starting Location
 
+![1](https://raw.githubusercontent.com/jjgomezg17/NYC_Citibike_Challenge/main/Images/1.png)
+
 #### Furthermore, the data analysis showed the number of bike trips by top starting locations. This indicates that there is a high demand for bike-sharing services on this areas, which would result in a significant increase in revenue for the business.
 
 #### In addition, the data analysis revealed that a significant number of trips originated from popular tourist destinations such as Central Park and downtown Manhattan. This indicates that there is a significant demand for bike-sharing services from tourists visiting the city, which presents a significant opportunity for growth and expansion.
