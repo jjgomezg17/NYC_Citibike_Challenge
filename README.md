@@ -58,4 +58,20 @@
 
 ### Trips by Gender (Weekday per Hour)
 
+#### This combined data on the time of day and gender of bike-sharing users highlights the similarities and differences between the two groups. While both genders behave similarly in terms of the hours in which they use bike-sharing services, men have a much higher number of users.
+
+#### This information can be used to inform marketing and outreach strategies, to target specific groups and increase their usage of the bike-sharing program. By attracting a more diverse range of users, the bike-sharing program could reach new markets and continue to grow and expand in the future.
+
+#### The combined data on the time of day and gender of bike-sharing users highlights the similarities and differences between the two groups and provides valuable information for future marketing and outreach efforts. By targeting specific groups and increasing their usage of the bike-sharing program, the business could reach new markets and continue to grow and expand.
+
+### User Trips by Gender by Weekday
+
+#### This data on the weekday and gender of bike-sharing users highlights the behavior patterns of different groups of riders. It can be seen that men have the most trips, with the highest activity on Thursdays and Fridays.
+
+#### This information can be used to optimize the bike-sharing program, such as ensuring that there is an adequate number of bikes available on these high-usage days and in the most popular areas. It can also be used to inform marketing and outreach efforts, to target specific groups and increase their usage of the bike-sharing program.
+
+#### In conclusion, the data on the weekday and gender of bike-sharing users highlights the behavior patterns of different groups of riders and provides valuable information for optimizing the bike-sharing program and for future marketing and outreach efforts. By targeting specific groups and increasing their usage of the bike-sharing program, the business could continue to grow and expand.
+
 ## Summary
+
+### 
