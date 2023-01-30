@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-[https://public.tableau.com/shared/84YWWQXSK?:display_count=n&:origin=viz_share_link](LINK GOES HERE)
+#### [Results of the Project](https://public.tableau.com/app/profile/juan.gomez7491/viz/NYCStory_16750493507430/Story1)
 
 #### I performed a bike trip analysis to solidify the business proposal for a bike-sharing program in Des Moines. One of the key stakeholders requested this analysis to provide further evidence that this program would be a viable business opportunity. Using Pandas, I first transformed the "tripduration" column from an integer to a datetime datatype. This allowed me to create several visualizations that showed important information about the use of the bikes.
 
