@@ -2,6 +2,8 @@
 
 ## Overview of the Analysis
 
+[https://public.tableau.com/shared/84YWWQXSK?:display_count=n&:origin=viz_share_link](LINK GOES HERE)
+
 #### I performed a bike trip analysis to solidify the business proposal for a bike-sharing program in Des Moines. One of the key stakeholders requested this analysis to provide further evidence that this program would be a viable business opportunity. Using Pandas, I first transformed the "tripduration" column from an integer to a datetime datatype. This allowed me to create several visualizations that showed important information about the use of the bikes.
 
 #### I created a set of visualizations to show the length of time that bikes were checked out for all riders and genders. This provided insights into the average trip duration for different groups of riders and helped us understand their needs and habits. Additionally, I created visualizations that showed the number of bike trips for all riders and genders for each hour of each day of the week. This allowed us to identify the busiest times for bike usage and how it varied based on the day of the week and the rider's gender.
