@@ -68,4 +68,12 @@
 
 ## Summary
 
-### 
+#### The results of the bike trip analysis in Des Moines showed the length of time that bikes were checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week.
+
+#### It was found that most trips go from one relevant or famous location to another, with the highest travel use evident on weekends between 9 am and 9 pm and on working days between 6 am and 9 am and 5 pm and 7 pm. The majority of users are men, and the data on the time of day and gender of bike-sharing users highlights the similarities and differences between the two groups. The data on the weekday and gender of bike-sharing users highlights the behavior patterns of different groups of riders.
+
+#### For future analysis, two additional visualizations could be created. One could be a map visualization of the top starting and ending locations over time, with the frequency of trips being represented by the size of the markers. This would give a more visual representation of the location-based data and help to identify areas where demand is highest depeding on the time.
+
+#### Another visualization could be a line graph showing the trend in the number of bike trips over time, with different lines representing different user groups and genders. This would help to identify any seasonal trends or changes in demand and provide valuable information for future planning and optimization of the bike-sharing program.
+
+#### In conclusion, the bike trip analysis provided valuable insights into the behavior patterns of bike-sharing users in Des Moines and can inform future marketing and outreach efforts, as well as program optimization.
