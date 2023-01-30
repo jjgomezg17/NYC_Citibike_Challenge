@@ -32,7 +32,7 @@
 
 #### Additionally, the checkout times analysis also shows that there is a high demand for bike-sharing services during peak hours, such as the morning and afternoon rush hour. This indicates that people are using bikes as a convenient and efficient mode of transportation to and from work or other daily activities.
 
-### In conclusion, the checkout times analysis supports the findings of the bike trip analysis and confirms the potential for a bike-sharing program in NYC. The high demand for bike-sharing services during peak hours and the popularity of using bikes for short trips and errands highlights the potential for success and profitability of the program.
+#### In conclusion, the checkout times analysis supports the findings of the bike trip analysis and confirms the potential for a bike-sharing program in NYC. The high demand for bike-sharing services during peak hours and the popularity of using bikes for short trips and errands highlights the potential for success and profitability of the program.
 
 ### Trips by Weekday per Hour
 
